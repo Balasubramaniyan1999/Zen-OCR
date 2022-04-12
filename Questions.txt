@@ -1,0 +1,11 @@
+Parse the given list and provide in a format expected as output.
+Input and Output data can be downloaded from the zip file.
+
+
+Q1 : Perform validations on date and amount columns
+
+Q2 : Identify Phone numbers and email id in the list
+
+Q3 : Find max amount and min amount in the output
+
+Q4 : Identify Deposits transaction list and withdrawals transaction list separately and all withdrawals should have negative indication.
